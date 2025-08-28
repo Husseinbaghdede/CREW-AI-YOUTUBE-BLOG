@@ -4,7 +4,7 @@ An intelligent blog post generator that extracts insights from YouTube videos an
 
 ## Overview
 
-This project leverages CrewAI to orchestrate a team of AI agents that work together to research YouTube content and generate professional blog posts. The system specifically focuses on extracting information from specified YouTube channels (used channel for default: @krishnaik06) on technical topics like AI, Machine Learning, Deep Learning, and Data Science.
+This project leverages CrewAI to orchestrate a team of AI agents that work together to research YouTube content and generate professional blog posts. The system specifically focuses on extracting information from specified YouTube channels (used channel for default: @krishnaik06) on technical topics like AI, Machine Learning, Deep Learning, and Data Science. It doesnt have a UI or anything it is just agentic code and with no inputs (to be added later) just a default youtube channel for now.
 
 ## Features
 
